@@ -4,7 +4,7 @@
 <img align="right" alt="jeppung" height="300" src="https://github.com/jeppung/jeppung/blob/main/profile2HD.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeppung&label=Profile%20views&color=0e75b6&style=flat" alt="jeppung" /> </p>
 
-- 🌱 I’m currently learning **NextJS, React Native**
+- 🌱 I’m currently learning **Web Development, Mobile Development**
 
 - 📫 How to reach me **jeppung@gmail.com**
 
