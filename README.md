@@ -1,7 +1,6 @@
 ![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676__340.jpg)
 <h1 align="center">Hi 👋, I'm JEPPUNG</h1>
 <h3 align="center">an IT Enthusiast</h3>
-<img align="right" alt="jeppung" height="300" src="https://github.com/jeppung/jeppung/blob/main/profile2HD.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeppung&label=Profile%20views&color=0e75b6&style=flat" alt="jeppung" /> </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile Development**
