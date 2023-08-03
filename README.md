@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeppung&label=Profile%20views&color=0e75b6&style=flat" alt="jeppung" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Frontend Devolopement**
 
 - 📫 How to reach me **jeppung@gmail.com**
 
