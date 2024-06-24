@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">Mobile Development Enthusiast</h3>
+<h3 align="center">Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeppung&label=Profile%20views&color=0e75b6&style=flat" alt="jeppung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeppung&label=Profile%20views&color=0e75b6&style=flat" alt="jeppung"/></p>
 
-- 🌱 I’m currently learning **Frontend Devolopement**
+- 🌱 I’m currently learning go
 
 - 📫 How to reach me **jeppung@gmail.com**
 
